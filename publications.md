@@ -7,16 +7,16 @@ layout: page
 ----
 
 * **Dirk Weissenborn**, Feiyu Xu, and Hans Uszkoreit. *Multi-objective Optimization for the Joint Disambiguation of Nouns and Named Entities*.
-ACL, China, 2015.
+ACL, China, 2015. [[pub](http://www.dfki.de/lt/publication_show.php?id=7736), [code](https://bitbucket.org/dfki-lt-re-group/mood)]
 * **Dirk Weissenborn**, Feiyu Xu, and Hans Uszkoreit. *DFKI: Multi-objective Optimization for the Joint Disambiguation of Entities and Nouns & Deep Verb Sense Disambiguation.*
-Proceedings of SemEval, 2015.
+Proceedings of SemEval, 2015. [[pub](http://www.dfki.de/lt/publication_show.php?id=7737)]
 * **Dirk Weissenborn**, Michael Schroeder, and George Tsatsaronis. *Discovering Relations between Indirectly Connected Biomedical Concepts.* Journal of Biomedical Semantics, to appear, 2015.
 * George Tsatsaronis, George Balikas, Prodromos Malakasiotis, Ioannis Partalas, Matthias Zschunke, Michael R. Alvers, **Dirk Weissenborn**, Anastasia Krithara, Sergios Petridis, Dimitris Polychronopoulos, Yannis Almirantis, John Pavlopoulos, Nicolas Baskiotis, Patrick Gallinari, Thierry Artieres, Axel Ngonga, Norman Heino, Eric Gaussier, Liliana Barrio-Alvers, Michael Schroeder, Ion Androutsopoulos and Georgios Paliouras. *An overview of the BioASQ large-scale biomedical semantic indexing and question answering competition.* BMC Bioinformatics, 2015.
 
 2014
 ----
 
-* **Dirk Weissenborn**, Michael Schroeder, and George Tsatsaronis. *Discovering Relations between Indirectly Connected Biomedical Concepts.* Data Integration in the Life Sciences. Springer International Publishing, 2014. 
+* **Dirk Weissenborn**, Michael Schroeder, and George Tsatsaronis. *Discovering Relations between Indirectly Connected Biomedical Concepts.* Data Integration in the Life Sciences. Springer International Publishing, 2014. [[pub](https://www.researchgate.net/publication/261398124_Discovering_Relations_between_Indirectly_Connected_Biomedical_Concepts)]
 
 2013
 ----
