@@ -6,7 +6,7 @@ layout: page
 2015
 ----
 
-* **Dirk Weissenborn**, Feiyu Xu, and Hans Uszkoreit. *Multi-objective Optimization for the Joint Disambiguation of Nouns and Named Entities*.
+* **Dirk Weissenborn**, Leonhard Hennig, Feiyu Xu, and Hans Uszkoreit. *Multi-objective Optimization for the Joint Disambiguation of Nouns and Named Entities*.
 ACL, China, 2015. [[pub](http://www.dfki.de/lt/publication_show.php?id=7736), [code](https://bitbucket.org/dfki-lt-re-group/mood)]
 * **Dirk Weissenborn**, Feiyu Xu, and Hans Uszkoreit. *DFKI: Multi-objective Optimization for the Joint Disambiguation of Entities and Nouns & Deep Verb Sense Disambiguation.*
 Proceedings of SemEval, 2015. [[pub](http://www.dfki.de/lt/publication_show.php?id=7737)]
