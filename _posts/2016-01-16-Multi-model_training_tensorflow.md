@@ -49,7 +49,7 @@ d = c + c
 
 # Add gradient computation ops to computation graph
 grad_from_model2 = tf.placeholder(tf.float32)
-grad = tf.gradients(d,[a])
+grad = tf.gradients(d,[a], grad_from_model2)
 ```
 
 Here is the naive way of doing forward and backward with intermediate call to another model (or more):
@@ -62,7 +62,7 @@ out = s.run(d)
 # ...
 
 # backprop
-grad_a = s.run(grad)
+grad_a = s.run(grad, feed_dict={grad_from_model2: 0.1})
 # --> logger will show "I am running forward!", the second time forward ran
 
 ```
@@ -86,7 +86,7 @@ dep_tensors = list(get_tensors([d],[]))
 comp_tensors = s.run(dep_tensors)
 
 # create input feed
-feed_dict = {}
+feed_dict = {grad_from_model2: 0.1}
 for i in xrange(len(comp_tensors)):
     feed_dict[dep_tensors[i]] = comp_tensors[i]
     
