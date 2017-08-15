@@ -3,18 +3,29 @@ layout: page
 
 ---
 
+2017
+----
+
+*   **Dirk Weissenborn**. _Reading Twice for Natural Language Understanding_. arXiv:1706.02596. [[pub](https://arxiv.org/abs/1706.02596)]
+
+*   **Dirk Weissenborn**, Georg Wiese, Laura Seiffe. _Making Neural QA as Simple as Possible but not Simpler_. CoNLL, 2017. [[pub](www.aclweb.org/anthology/K/K17/K17-1028.pdf), [code](https://github.com/georgwiese/biomedical-qa)]
+
+*   Georg Wiese, **Dirk Weissenborn**, Mariana Neves. _Neural Domain Adaptation for Biomedical Question Answering_. CoNLL, 2017. [[pub](www.aclweb.org/anthology/K/K17/K17-1029.pdf), [code](https://github.com/georgwiese/biomedical-qa)]
+
 2016
 ----
 
-*   **Dirk Weissenborn**. _Separating Answers from Queries for Neural Reading Comprehension_. arXiv:1607.03316 [[pub](http://arxiv.org/abs/1607.03316), [code](https://github.com/dirkweissenborn/qa_network)]
+*   **Dirk Weissenborn**. _Separating Answers from Queries for Neural Reading Comprehension_. arXiv:1607.03316. [[pub](http://arxiv.org/abs/1607.03316), [code](https://github.com/dirkweissenborn/qa_network)]
 
-*   **Dirk Weissenborn**. _Neural Associative Memory for Dual-Sequence Modeling_. RepL4NLP (ACL), Germany, 2016 [[pub](http://arxiv.org/abs/1606.03864), [code](https://github.com/dirkweissenborn/dual_am_rnn)]
+*   **Dirk Weissenborn**. _Neural Associative Memory for Dual-Sequence Modeling_. RepL4NLP (ACL), Germany, 2016. [[pub](http://arxiv.org/abs/1606.03864), [code](https://github.com/dirkweissenborn/dual_am_rnn)]
 
-*   **Dirk Weissenborn**, Tim Rocktäschel. _MuFuRU: The Multi-Function Recurrent Unit_. arXiv:1606.03002 [[pub](https://arxiv.org/abs/1606.03002), [code](https://github.com/dirkweissenborn/mufuru)]
+*   **Dirk Weissenborn**, Tim Rocktäschel. _MuFuRU: The Multi-Function Recurrent Unit_. arXiv:1606.03002. [[pub](https://arxiv.org/abs/1606.03002), [code](https://github.com/dirkweissenborn/mufuru)]
 
-*   Sebastian Krause, Feiyu Xu, Hans Uszkoreit, **Dirk Weissenborn**. _Event Linking with Sentential Features from Convolutional Neural Networks._ CoNLL, 2016\. [[pub](http://sebastiankrause.net/papers/CoNLL16-event-linking.pdf)]
+*   Sebastian Krause, Feiyu Xu, Hans Uszkoreit, **Dirk Weissenborn**. _Event Linking with Sentential Features from Convolutional Neural Networks._ CoNLL, 2016. [[pub](http://sebastiankrause.net/papers/CoNLL16-event-linking.pdf)]
 
 *   Sebastian Krause, Leonhard Hennig, Andrea Moro, **Dirk Weißenborn**, Feiyu Xu, Hans Uszkoreit, Roberto Navigli. _Sar-graphs: A Language Resource Connecting Linguistic Knowledge with Semantic Relations from Knowledge Graphs._ Journal of Web Semantics: Science, Services and Agents on the World Wide Web, Volumes 37–38, March 2016, Pages 112–131, Elsevier. [[pub](http://sebastiankrause.net/papers/jws-article-20160311-public.pdf)]
+
+*   **Dirk Weissenborn**, Roland Roller, Feiyu Xu, Hans Uszkoreit, Enrique Garcia Perez. _A Light-weight & Robust System for Clinical Concept Disambiguation_. SMBM, 2016. [[pub](https://pdfs.semanticscholar.org/14ac/e244f69306f5b33770f8e7ec5262d48af6ef.pdf)]
 
 2015
 ----
