@@ -8,9 +8,9 @@ layout: page
 
 *   **Dirk Weissenborn**. _Reading Twice for Natural Language Understanding_. arXiv:1706.02596. [[pub](https://arxiv.org/abs/1706.02596)]
 
-*   **Dirk Weissenborn**, Georg Wiese, Laura Seiffe. _Making Neural QA as Simple as Possible but not Simpler_. CoNLL, 2017. [[pub](www.aclweb.org/anthology/K/K17/K17-1028.pdf), [code](https://github.com/georgwiese/biomedical-qa)]
+*   **Dirk Weissenborn**, Georg Wiese, Laura Seiffe. _Making Neural QA as Simple as Possible but not Simpler_. CoNLL, 2017. [[pub](https://www.aclweb.org/anthology/K/K17/K17-1028.pdf), [code](https://github.com/georgwiese/biomedical-qa)]
 
-*   Georg Wiese, **Dirk Weissenborn**, Mariana Neves. _Neural Domain Adaptation for Biomedical Question Answering_. CoNLL, 2017. [[pub](www.aclweb.org/anthology/K/K17/K17-1029.pdf), [code](https://github.com/georgwiese/biomedical-qa)]
+*   Georg Wiese, **Dirk Weissenborn**, Mariana Neves. _Neural Domain Adaptation for Biomedical Question Answering_. CoNLL, 2017. [[pub](https://www.aclweb.org/anthology/K/K17/K17-1029.pdf), [code](https://github.com/georgwiese/biomedical-qa)]
 
 2016
 ----
