@@ -4,7 +4,7 @@ title: About
 
 ---
 <img style="float: left; padding: 5px 20px" src="/static/img/Me.jpg"> 
-I am a PhD student/Researcher at the [Language Technology Lab](http://www.dfki.de/lt/) of the German Research Center for Artificial Intelligence (DFKI) under the supervision of [Hans Uszkoreit](http://www.dfki.de/~hansu/) and [Feiyu Xu](http://www.dfki.de/~feiyu) since April, 2014. Furthermore, I worked as a Research Intern at DeepMind for 5 month from May until October, 2017.
+I am a PhD student/Researcher at the [Language Technology Lab](https://www.dfki.de/lt/) of the German Research Center for Artificial Intelligence (DFKI) under the supervision of [Hans Uszkoreit](https://www.dfki.de/~hansu/) and [Feiyu Xu](http://www.dfki.de/~feiyu) since April, 2014. I also worked as a Research Intern at DeepMind(https://www.deepmind.com) for 5 month from May until October, 2017.
 
 My current research interests lie in representation learning for NLP with a focus on tasks involving reading comprehension and the seamless integration of background knowledge into architectures for natural language understanding. However, I am generally interested in all kinds of research that in the intersection of NLP and Deep Learning. In the past, I did also work on Word Sense Disambiguation & Entity Linking.
 
