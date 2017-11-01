@@ -6,7 +6,7 @@ layout: page
 2017
 ----
 
-*   **Dirk Weissenborn**. _Reading Twice for Natural Language Understanding_. arXiv:1706.02596. [[pub](https://arxiv.org/abs/1706.02596)]
+*   **Dirk Weissenborn**, Tomáš Kočiský, Chris Dyer. _Dynamic Integration of Background Knowledge in Neural NLU Systems_. arXiv:1706.02596. [[pub](https://arxiv.org/abs/1706.02596v2)]
 
 *   **Dirk Weissenborn**, Georg Wiese, Laura Seiffe. _Making Neural QA as Simple as Possible but not Simpler_. CoNLL, 2017. [[pub](https://www.aclweb.org/anthology/K/K17/K17-1028.pdf), [code](https://github.com/georgwiese/biomedical-qa)]
 
